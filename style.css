@@ -1,0 +1,39 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 20px;
+}
+
+/* Class Selector */
+.title {
+    color: #3498db;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/* ID Selector */
+#intro {
+    color: #2c3e50;
+    font-style: italic;
+    padding: 10px;
+}
+
+/* Image Styling */
+.styled-image {
+    width: 300px;
+    border: 5px solid #333;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+/* Container with Padding & Margin */
+.container {
+    background-color: white;
+    padding: 20px;
+    margin: 30px auto;
+    width: 50%;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
